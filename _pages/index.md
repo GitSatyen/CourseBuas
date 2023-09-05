@@ -13,7 +13,7 @@ redirect_from:
 <!---
 Introduce yourself, who are you? Where are you from? Why do you want to be a game programmer? What got you interested in game development? For example, you could tell about the moment in your life that you realized that you wanted to be a game programmer. 
 -->
-Hello, my name is Satyendra. I am 21 and I'm from Rotterdam.  
+Hello, my name is Satyendra. I am 21 and I live in Rotterdam.  
 ## Strengths
 
 <!---
