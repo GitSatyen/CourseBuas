@@ -19,7 +19,7 @@ Hello, my name is Satyendra. I am 21 and I live in Rotterdam. I want to be becom
 <!---
 What are your strengths? What are you good at? Are you good in math? Do you like solving difficult problems? Do you consider yourself a critical thinker? Do you like to work in teams or do you do better as a solo flyer? What will you do to nourish your strengths?
 -->
-I think a lot about looking for diffrent solutions to make something. I also think I have good problem solving skills, which I can brainstorm about for some time. I have no problems with working in a team and like to hear diffrent perspectives, but also need my own time to think things through and need to focus.   
+I think a lot about looking for diffrent solutions to make something. I also think I have good problem solving skills, which I can brainstorm about for some time ᕙ(⇀‸↼‶)ᕗ. I have no problems with working in a team and like to hear diffrent perspectives, but also need my own time to think things through and need to focus.   
 
 ## Weakness
 
