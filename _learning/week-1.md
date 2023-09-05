@@ -17,7 +17,7 @@ NOTE: Fill this section in at the beginning of the week!
 
 What do you plan to do this week? What new knowledge do you want to acquire? Do you want to follow any of the learning units for the course? Do you want to work on the assignment for the course? How much time do you estimate you will spend on these tasks?
 -->
-
+This week I want to learn just how I can function like a professional progammer, required to enroll in the Creative Media and Game Technologies course. I'm willing to work as much as I can on this course. To be specific around 5/6 hours a day.   
 ## Do
 
 <!---
