@@ -43,7 +43,7 @@ What do you like doing in your spare time? What is your favorite video game (rig
 -->
 Mainly sports, gaming and other media. Currenlty I'm busy with Totk and Yakuza 0. My favorite videogame is still Xenoblade Chronicles 2 because of how broken you can equip yourself in the game with the buff combinations. 
 
-For music i like hiphop, R&B, Asian pop/rock and Latin music. And with movies I like action, mysterie and animation. I really the movie into the spiderverse, not just because of the action but the soundtrack which was made by some of favorite artists. 
+For music i like hiphop, R&B, Asian pop/rock and Latin music. And with movies I like action, mysterie and animation. I really liked the movie Into the Spiderverse, not just because of the action but the soundtrack which was made by some of favorite artists. 
 
 I like Italy a lot and went there once this vacation. Other than that I really would like to go to Japan or California. 
 
