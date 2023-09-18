@@ -56,4 +56,4 @@ What action points can you identify from this week? What would you like to impro
 
 If your planned time estimates were not accurate, what would you do to improve them?
 -->
-I think should be spending more time into improving my programming skills, since C++ really feels a step up from C#. 
+I think should be spending more time into improving my programming skills, since C++ really feels a step up from C#.  
