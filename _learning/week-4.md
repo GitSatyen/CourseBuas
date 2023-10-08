@@ -17,7 +17,7 @@ NOTE: Fill this section in at the beginning of the week!
 
 What do you plan to do this week? What new knowledge do you want to acquire? Do you want to follow any of the learning units for the course? Do you want to work on the assignment for the course? How much time do you estimate you will spend on these tasks?
 -->
-
+This week I want to add more functions to the player and work on collisions.
 ## Do
 
 <!---
@@ -27,6 +27,7 @@ What were you actually able to accomplish? Was it more or less than what you pla
 
 Provide as much context as possible. Use code snippets or take screenshots of what you were able to accomplish. Please provide references to any additional sources of information that helped you.
 -->
+Tried working on the camera for the player during the lecture, but there seem be complications. At least I managed to fix the movement of my player. 
 
 ## Check
 
@@ -41,7 +42,7 @@ Did you give anyone else feedback? Who did you give feedback to? How did they re
 
 NOTE: Any source of feedback is feedback!
 -->
-
+We got extra support in the evening and I tried to follow along to make the AABB work. I’m also trying to see how I can implement the jumping function from a tutorial I followed. 
 ## Act
 
 <!---
@@ -51,3 +52,4 @@ What action points can you identify from this week? What would you like to impro
 
 If your planned time estimates were not accurate, what would you do to improve them?
 -->
+Didn't get a lot of time to look into the things I wanted to. Made progress on the level design for the game. Now figuring out how to place the level on the center of the screen. 
