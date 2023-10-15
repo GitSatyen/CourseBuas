@@ -17,6 +17,7 @@ NOTE: Fill this section in at the beginning of the week!
 
 What do you plan to do this week? What new knowledge do you want to acquire? Do you want to follow any of the learning units for the course? Do you want to work on the assignment for the course? How much time do you estimate you will spend on these tasks?
 -->
+This week I want to start about how C++ programming is done and how that can be implemented for the game project.   
 
 ## Do
 
@@ -28,6 +29,8 @@ What were you actually able to accomplish? Was it more or less than what you pla
 Provide as much context as possible. Use code snippets or take screenshots of what you were able to accomplish. Please provide references to any additional sources of information that helped you.
 -->
 
+First of all, I managed to hand in the GDD in time. The lectures started up programming more now.
+Managed to setup the basics for the idle animation so far.  
 ## Check
 
 <!--- 
@@ -41,6 +44,8 @@ Did you give anyone else feedback? Who did you give feedback to? How did they re
 
 NOTE: Any source of feedback is feedback!
 -->
+Received good results for the GDD. But should have spent more time into making mockups for the project. 
+I also  should structure my files better, like my assets for example. I got some errors with them not being found by the program. 
 
 ## Act
 
@@ -51,3 +56,4 @@ What action points can you identify from this week? What would you like to impro
 
 If your planned time estimates were not accurate, what would you do to improve them?
 -->
+I think should be spending more time into improving my programming skills, since C++ really feels a step up from C#.  

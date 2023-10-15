@@ -17,7 +17,7 @@ NOTE: Fill this section in at the beginning of the week!
 
 What do you plan to do this week? What new knowledge do you want to acquire? Do you want to follow any of the learning units for the course? Do you want to work on the assignment for the course? How much time do you estimate you will spend on these tasks?
 -->
-
+I want to learn how I can move my player around the level with the animations playing.  
 ## Do
 
 <!---
@@ -27,7 +27,7 @@ What were you actually able to accomplish? Was it more or less than what you pla
 
 Provide as much context as possible. Use code snippets or take screenshots of what you were able to accomplish. Please provide references to any additional sources of information that helped you.
 -->
-
+Managed to make the player move and play the idle animation. Only thing is this is still the asset from the examples and still need to figure out how I can do it with the ones I descriped in the GDD. 
 ## Check
 
 <!--- 
@@ -41,7 +41,7 @@ Did you give anyone else feedback? Who did you give feedback to? How did they re
 
 NOTE: Any source of feedback is feedback!
 -->
-
+We didn't get a lot into collisions this week due. At least we have the animation setup working.
 ## Act
 
 <!---
@@ -51,3 +51,4 @@ What action points can you identify from this week? What would you like to impro
 
 If your planned time estimates were not accurate, what would you do to improve them?
 -->
+We setup a working animation setup when movement happens, but didn't get much into different functionalities such as jumping or attacking.  
