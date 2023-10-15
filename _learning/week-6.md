@@ -51,4 +51,4 @@ What action points can you identify from this week? What would you like to impro
 
 If your planned time estimates were not accurate, what would you do to improve them?
 -->
-Simplefied the gravity functionality and progress on the jumping physics. I  need to spend more time, since I haven't made much progress this far in into the course.   
+Simplefied the gravity functionality and progress on the jumping physics. I  need to spend more time, since I haven't made much progress this far in into the course.
