@@ -42,7 +42,7 @@ Did you give anyone else feedback? Who did you give feedback to? How did they re
 NOTE: Any source of feedback is feedback!
 -->
 
-Making a design for the went well. Didn't get time to work on the enemy. Figuring out to make the falling work
+Making a design for the went well. Didn't get time to work on the enemy. Figuring out to make the falling work.
 ## Act
 
 <!---
@@ -52,4 +52,4 @@ What action points can you identify from this week? What would you like to impro
 
 If your planned time estimates were not accurate, what would you do to improve them?
 -->
-I really want to improve my knowlegde on making physics work, structured, compact and not overcomplicated, since it takes so much time for me
+I really want to improve my knowlegde on making physics work, structured, compact and not overcomplicated, since it takes so much time for me.

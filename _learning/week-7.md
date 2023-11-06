@@ -51,4 +51,4 @@ What action points can you identify from this week? What would you like to impro
 
 If your planned time estimates were not accurate, what would you do to improve them?
 -->
-Making use of the state patterns, but still losing time on how to make the jumping work
+Making use of the state patterns, but still losing time on how to make the jumping work.

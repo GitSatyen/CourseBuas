@@ -17,7 +17,7 @@ NOTE: Fill this section in at the beginning of the week!
 
 What do you plan to do this week? What new knowledge do you want to acquire? Do you want to follow any of the learning units for the course? Do you want to work on the assignment for the course? How much time do you estimate you will spend on these tasks?
 -->
-Making the jumping work and working on collisions 
+Making the jumping work and working on collisions. 
 ## Do
 
 <!---
@@ -27,7 +27,7 @@ What were you actually able to accomplish? Was it more or less than what you pla
 
 Provide as much context as possible. Use code snippets or take screenshots of what you were able to accomplish. Please provide references to any additional sources of information that helped you.
 -->
-Discoverd flaws in the state structure to make the player jump. The animations aren't playing right and now I'm losing time on this problem instead of getting progress
+Discoverd flaws in the state structure to make the player jump. The animations aren't playing right and now I'm losing time on this problem instead of getting progress.
 ## Check
 
 <!--- 
@@ -41,7 +41,7 @@ Did you give anyone else feedback? Who did you give feedback to? How did they re
 
 NOTE: Any source of feedback is feedback!
 -->
-Fixed the animations for jumping. Still figuring out how to get it in its falling state. Didn't get time to work on collisions 
+Fixed the animations for jumping. Still figuring out how to get it in its falling state. Didn't get time to work on collisions. 
 ## Act
 
 <!---
