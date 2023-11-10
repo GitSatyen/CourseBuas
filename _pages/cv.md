@@ -26,6 +26,8 @@ redirect_from:
   * <a href="https://vapiano.nl/restaurant/vapiano-rotterdam-plaza/">Vapiano Plaza</a>
   * 2023-present
   * Rotterdam, Plaza 24
+* Vakkenvuller Albert Heijn
+  * 2019-2020
   
 ## Accomplishments
 
