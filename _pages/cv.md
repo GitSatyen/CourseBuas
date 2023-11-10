@@ -23,9 +23,9 @@ redirect_from:
 
 * Intern 
 * Service and Bar staff
- * <a href="https://vapiano.nl/restaurant/vapiano-rotterdam-plaza/">Vapiano Plaza</a>
- * 2023-present
- * Rotterdam, Plaza 24
+  * <a href="https://vapiano.nl/restaurant/vapiano-rotterdam-plaza/">Vapiano Plaza</a>
+  * 2023-present
+  * Rotterdam, Plaza 24
   
 ## Accomplishments
 
