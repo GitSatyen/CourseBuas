@@ -13,33 +13,29 @@ redirect_from:
 
 ### Bachelor of Science
 
-Graduated with Cum laude from the Breda University of Applied Science BSc. in Computer Science, Breda University of Applied Science, 2028.
+* MBO 4 Degree in Software Development
+* Minor Extended Reality
+* Grafisch Lyceum Rotterdam
+* 2020 - 2023
+* Rotterdam, The Netherlands
 
 ## Work experience
 
-* Summer 2022: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2022: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Intern 
+* Service and Bar staff
+ * <a href="https://vapiano.nl/restaurant/vapiano-rotterdam-plaza/">Vapiano Plaza</a>
+ * 2023-present
+ * Rotterdam, Plaza 24
   
 ## Accomplishments
 
-* 2D Game Project
-* Gold medal in 2024 summer olympics
+* UI design and of the game <a href="https://store.steampowered.com/app/416000/Orange_Season/">Orange Season</a>. My name is mentioned in the credits. 
 
 ## Skills
 
-* Knitting
 * Programming
-  * Graphics
-  * Network
   * Gameplay
-* Mind reading
+  * Web
 
 ## Languages
 
