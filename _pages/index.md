@@ -26,7 +26,7 @@ I think a lot about looking for diffrent solutions to make something. I also thi
 <!---
 What are you not so good at? What do you find difficult? What do you want to improve about yourself? How do you think you can realize those improvements?
 -->
-I'm not the best at communication. I really think I should just let my thoughts out more. Also not so good at math. 
+I'm not the best with communicating. I really think I should just let my thoughts out more. Also not so good at math. 
 
 ## Accomplishments
 
