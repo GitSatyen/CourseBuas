@@ -21,7 +21,7 @@ redirect_from:
 
 ## Work experience
 
-* Intern 
+* Programming Intern at SOEDESCO 
 * Service and Bar staff
   * <a href="https://vapiano.nl/restaurant/vapiano-rotterdam-plaza/">Vapiano Plaza</a>
   * 2023-present
